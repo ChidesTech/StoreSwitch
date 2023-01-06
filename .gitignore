@@ -1,0 +1,6 @@
+/node_modules
+/public/images
+/public/webfonts
+/src/challenges/RenderNestedObject.js
+/src/challenges/RoboList.js
+/src/challenges/ExpandableActivities.js
